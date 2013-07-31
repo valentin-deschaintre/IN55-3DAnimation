@@ -1,0 +1,23 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Intro}{1}{section.1}
+\contentsline {section}{\numberline {2}Choix d'impl\IeC {\'e}mentation}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Hi\IeC {\'e}rarchie de membres}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Classe BodyPart}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Ordre d'affichage}{2}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Repr\IeC {\'e}sentation de l'animation}{3}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Animation de marche : fonctions sinus/cosinus}{3}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Animation de course et de saut : interpolation de Lagrange}{3}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.5}Utilisation des shader de texture}{4}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Biblioth\IeC {\`e}que GLM}{4}{subsection.2.6}
+\contentsline {section}{\numberline {3}Difficult\IeC {\'e}s rencontr\IeC {\'e}es}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Installation de QT}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Interpolation incorrecte}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Impl\IeC {\'e}mentation de la cam\IeC {\'e}ra}{5}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Distance d'affichage}{5}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Position du corps}{6}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Luminosit\IeC {\'e}}{6}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Extraction d'ex\IeC {\'e}cutable}{6}{subsection.3.7}
+\contentsline {section}{\numberline {4}Captures d'\IeC {\'e}cran}{7}{section.4}
+\contentsline {section}{\numberline {5}Guide d'utilisation}{9}{section.5}
+\contentsline {section}{\numberline {6}Am\IeC {\'e}liorations possibles}{9}{section.6}
+\contentsline {section}{\numberline {7}Conclusion}{10}{section.7}

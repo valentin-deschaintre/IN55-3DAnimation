@@ -1,0 +1,13 @@
+INPUT(
+./obj\RandomNumberGenerator.o
+./obj\GlFramework.o
+./obj\Window.o
+./obj\Shape.o
+./obj\ParametricShape.o
+./obj\Cubes.o
+./obj\Cylinder.o
+./obj\Humanoide.o
+./obj\main.o
+./obj\Arm.o
+./obj\Bodypart.o
+);

@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Intro}{}% 1
+\BOOKMARK [1][-]{section.2}{Choix d'impl\351mentation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Hi\351rarchie de membres}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Classe BodyPart}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Ordre d'affichage}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Repr\351sentation de l'animation}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Animation de marche : fonctions sinus/cosinus}{subsection.2.4}% 7
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Animation de course et de saut : interpolation de Lagrange}{subsection.2.4}% 8
+\BOOKMARK [2][-]{subsection.2.5}{Utilisation des shader de texture}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.6}{Biblioth\350que GLM}{section.2}% 10
+\BOOKMARK [1][-]{section.3}{Difficult\351s rencontr\351es}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Installation de QT}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Interpolation incorrecte}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.3}{Impl\351mentation de la cam\351ra}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.4}{Distance d'affichage}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.5}{Position du corps}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.6}{Luminosit\351}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.7}{Extraction d'ex\351cutable}{section.3}% 18
+\BOOKMARK [1][-]{section.4}{Captures d'\351cran}{}% 19
+\BOOKMARK [1][-]{section.5}{Guide d'utilisation}{}% 20
+\BOOKMARK [1][-]{section.6}{Am\351liorations possibles}{}% 21
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 22
